@@ -1,4 +1,4 @@
-require 'fizzbuzz'
+require './fizzbuzz'
 
 describe "fizzbuzz" do
 	it "should return Fizz if int is dividable by 3" do
